@@ -6,5 +6,5 @@ I suggest you to using kaggle
 [Extraction Audio Notebook](https://www.kaggle.com/code/muhammadmeftahmafazy/extraction-audio)
 [Classification Notebook](https://www.kaggle.com/code/muhammadmeftahmafazy/classification#Klasifikasi-menggunakan-SVM-dengan-Stratified-K-Fold)
 
-This Paper was published in
+This research was published in
 [Link](https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/2569)
