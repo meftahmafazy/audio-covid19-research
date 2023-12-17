@@ -1,7 +1,10 @@
-# Riset Audio COVID-19
+# COVID-19 Audio Research
 
-Source Code Skripsi Deteksi COVID-19 melalui audio batuk
+Source code for my bachelor thesis about COVID-19 Detection via Audio Cough
 
-Disarankan menggunakan Kaggle
-[Link Ekstraksi Audio](https://www.kaggle.com/code/muhammadmeftahmafazy/extraction-audio)
-[Link Klasifikasi](https://www.kaggle.com/code/muhammadmeftahmafazy/classification#Klasifikasi-menggunakan-SVM-dengan-Stratified-K-Fold)
+I suggest you to using kaggle
+[Extraction Audio Notebook](https://www.kaggle.com/code/muhammadmeftahmafazy/extraction-audio)
+[Classification Notebook](https://www.kaggle.com/code/muhammadmeftahmafazy/classification#Klasifikasi-menggunakan-SVM-dengan-Stratified-K-Fold)
+
+This Paper was published in
+[Link](https://ejournal.amikompurwokerto.ac.id/index.php/telematika/article/view/2569)
